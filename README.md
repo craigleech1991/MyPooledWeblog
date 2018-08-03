@@ -8,7 +8,7 @@ Java program that gathers statistics from a weblog
 
  This program uses Java(TM) SE Runtime Environment (build 9.0.4+11)
 
- Compiling and running instructions
+ Compiling and running instructions:
  Change to the directory containing the source code.
  Compile:    javac MyPooledWeblog.java
  Run:        java MyPooledWeblog (log file) "option"
